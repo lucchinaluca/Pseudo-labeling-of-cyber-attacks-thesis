@@ -1,3 +1,5 @@
+**Clustering and classification of cyberattacks using peudo-labeling**
+
 This is my bachelor thesis working on real world cyber attacks recorded using a network of honey pots around the world. 
 Due to the factor of it being real data it isn't labeled leading the core fo the thesis to make proper prediction of the type of cyber attack are embedded in the payload.
 This was done through pseudo labelling using an artificial lab created data.
